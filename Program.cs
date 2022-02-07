@@ -147,6 +147,30 @@ namespace _001_Basics
             //        break;
             //}
 
+            //Console.Write("Enter first num");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+
+            //string sign = Console.ReadLine();
+
+            //Console.Write("Enter second num");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+
+            //int res = 0;
+
+            //switch (sign)
+            //{
+            //    case "+":
+            //        res = num1 + num2;
+            //        break;
+            //    case "-":
+            //        res = num1 - num2;
+            //        break;
+            //    default:
+            //        break;
+            //}
+            //Console.WriteLine(res);
+
+
             Console.Write("Enter first num");
             int num1 = Convert.ToInt32(Console.ReadLine());
 
@@ -169,8 +193,6 @@ namespace _001_Basics
                     break;
             }
             Console.WriteLine(res);
-
-
 
         }
     }
