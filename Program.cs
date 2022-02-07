@@ -171,12 +171,12 @@ namespace _001_Basics
             //Console.WriteLine(res);
 
 
-            Console.Write("Enter first num");
+            Console.Write("Enter first num: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
 
             string sign = Console.ReadLine();
 
-            Console.Write("Enter second num");
+            Console.Write("Enter second num: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
             int res = 0;
