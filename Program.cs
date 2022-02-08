@@ -183,16 +183,16 @@ namespace _001_Basics
 
             switch (sign)
             {
-                case "+":
+                case " + ":
                     res = num1 + num2;
                     break;
-                case "-":
+                case " - ":
                     res = num1 - num2;
                     break;
-                case "*":
+                case " * ":
                     res = num1 * num2;
                     break;
-                case "/":
+                case " / ":
                     res = num1 / num2;
                     break;
                 default:
