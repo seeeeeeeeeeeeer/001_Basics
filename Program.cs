@@ -189,6 +189,12 @@ namespace _001_Basics
                 case "-":
                     res = num1 - num2;
                     break;
+                case "*":
+                    res = num1 * num2;
+                    break;
+                case "/":
+                    res = num1 / num2;
+                    break;
                 default:
                     break;
             }
